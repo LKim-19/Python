@@ -8,7 +8,7 @@ city = input("Please input the city you grew up in: \n")
 name = input("Please enter a name for a pet: \n")
 
 #4. Combine the name of their city and pet and show them their band name.
-print(f"Your combined band name is: {city} {name}\n")
+print(f"Your combined band name is: {city} {name}")
 
 #5. Make sure the input cursor shows on a new line:
 
